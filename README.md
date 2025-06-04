@@ -75,8 +75,6 @@ Employee Data View:
 
 ---
 
-### Mobile App Interface  
-Mobile Check-in/Check-out Panel:
 ### 📱 Mobile App Interface
 
 #### 🔐 Mobile App Login Page  
