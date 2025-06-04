@@ -76,6 +76,32 @@ Employee Data View:
 ---
 
 ### Mobile App Interface  
+Mobile Check-in/Check-out Panel:
+### 📱 Mobile App Interface
+
+#### 🔐 Mobile App Login Page  
+![Mobile App Login Page](IMG-20250605-WA0013.jpg)
+
+#### ⏱️ Check In/Check Out Page  
+![Check In Page](IMG-20250605-WA0015.jpg)  
+![Check Out Page](IMG-20250605-WA0016.jpg)
+
+#### 📊 Attendance and Activity Status of the Day  
+![Attendance Status](IMG-20250605-WA0021.jpg)
+
+#### 👤 My Profile Page  
+![Profile Page 1](IMG-20250605-WA0022.jpg)  
+![Profile Page 2](IMG-20250605-WA0023.jpg)  
+![Profile Page 3](IMG-20250605-WA0019.jpg)
+
+#### 📅 Previous Events Page  
+![Previous Events Page](IMG-20250605-WA0014.jpg)
+
+#### 📝 Apply and Check Leave Status  
+![Apply Leave](IMG-20250605-WA0017.jpg)  
+![Leave Status](IMG-20250605-WA0018.jpg)
+
+
 
 
 ---
