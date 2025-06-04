@@ -61,13 +61,13 @@ GeoNirikshan automates attendance by detecting an employee's proximity to the wo
 
 ### Web Admin Dashboard  
 Login Page:
-![Login Page]("Screenshot 2025-06-05 024253.png")
+![Login Page](./Screenshot%202025-06-05%20024253.png)
 
 Admin Dashboard:
-![Admin Dashboard](Screenshot 2025-06-05 024308.png)
+![Admin Dashboard](Screenshot%202025-06-05%20024308.png)
 
 Employee Data View:
-![Employee Date View](Screenshot 2025-06-05 024319.png)
+![Employee Data View](Screenshot%202025-06-05%20024319.png)
 
 
 
