@@ -88,26 +88,26 @@ Employee Data View:
 ### 📱 Mobile App Interface
 
 #### 🔐 Mobile App Login Page  
-![Mobile App Login Page](/images/IMG-20250605-WA0013.jpg)
+<img src="/images/IMG-20250605-WA0013.jpg" width="300" alt="Mobile App Login Page">
 
 #### ⏱️ Check In/Check Out Page  
-![Check In Page](/images/IMG-20250605-WA0015.jpg)  
-![Check Out Page](/images/IMG-20250605-WA0016.jpg)
+<img src="/images/IMG-20250605-WA0015.jpg" width="300" alt="Check In Page">
+<img src="/images/IMG-20250605-WA0016.jpg" width="300" alt="Check Out Page">
 
 #### 📊 Attendance and Activity Status of the Day  
-![Attendance Status](/images/IMG-20250605-WA0021.jpg)
+<img src="/images/1.jpg" width="300" alt="Attendance Status">
 
 #### 👤 My Profile Page  
-![Profile Page 1](/images/IMG-20250605-WA0022.jpg)  
-![Profile Page 2](/images/IMG-20250605-WA0023.jpg)  
-![Profile Page 3](/images/IMG-20250605-WA0019.jpg)
+<img src="/images/IMG-20250605-WA0022.jpg" width="300" alt="Profile Page 1">
+<img src="/images/IMG-20250605-WA0023.jpg" width="300" alt="Profile Page 2">
+<img src="/images/IMG-20250605-WA0019.jpg" width="300" alt="Profile Page 3">
 
 #### 📅 Previous Events Page  
-![Previous Events Page](/images/IMG-20250605-WA0014.jpg)
+<img src="/images/2.jpg" width="300" alt="Previous Events Page">
 
 #### 📝 Apply and Check Leave Status  
-![Apply Leave](/images/IMG-20250605-WA0017.jpg)  
-![Leave Status](/images/IMG-20250605-WA0018.jpg)
+<img src="/images/IMG-20250605-WA0017.jpg" width="300" alt="Apply Leave">
+<img src="/images/IMG-20250605-WA0018.jpg" width="300" alt="Leave Status">
 
 ---
 
