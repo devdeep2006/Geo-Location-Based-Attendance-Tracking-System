@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
     const timer = setTimeout(() => {
       setLoading(false);
       if (!hasNavigated) {
-        router.push('/Landing_Page'); // Redirect to Landing_Page
+        router.push('/Dashboard'); // Redirect to Landing_Page
         setHasNavigated(true);
       }
     }, 2000); // Adjust the duration as needed

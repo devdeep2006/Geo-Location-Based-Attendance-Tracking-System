@@ -1,12 +1,14 @@
 "use client";
-import Header from "@/components/Header";
+
+
 import React from "react";
+import dynamic from 'next/dynamic';
 import { FaUserCircle } from "react-icons/fa";
-import { Merriweather } from "@next/font/google";
+import { Merriweather } from "next/font/google"; // Fixed import
 import Total_emp from "@/components/Total_emp";
 import Onsite_emp from "@/components/Onsite_emp";
 import Offsite_emp from "@/components/Offsite_emp";
-import Map from "@/components/Map";
+// import Map from "@/components/Map";
 import Graph from "@/components/Graph";
 import { useState } from "react";
 import RecentLogs from "@/components/RecentLogs";
@@ -14,6 +16,18 @@ import RecentLogs from "@/components/RecentLogs";
 const bebasNeue = Merriweather({
   subsets: ["latin"],
   weight: ["700"],
+});
+
+const Map = dynamic(() => import('@/components/Map'), {
+  ssr: false,
+  loading: () => (
+    <div 
+      style={{ height: "347px", width: "519px" }}
+      className="flex items-center justify-center bg-gray-100 border-2 border-gray-300 rounded"
+    >
+      Loading Map...
+    </div>
+  )
 });
 
 const page = () => {
@@ -50,6 +64,8 @@ const page = () => {
           </div>
         </div>
       </div>
+      
+      
       <div className="flex justify-around mt-6">
         <HoverCard>
           <Total_emp />
@@ -61,6 +77,7 @@ const page = () => {
           <Offsite_emp />
         </HoverCard>
       </div>
+
       <div className="flex justify-around mt-7">
         <div className="border-[2px] border-[#393737] flex flex-col items-center h-fit p-2 bg-white bg-opacity-50 backdrop-blur-lg">
           <h1 className="text-lg font-semibold">
@@ -72,9 +89,11 @@ const page = () => {
           <Map />
         </div>
       </div>
+      
       <div>
         <RecentLogs />
       </div>
+      
     </div>
   );
 };
@@ -108,8 +127,8 @@ const HoverCard = ({ children }) => {
       style={{
         transform,
         transition: "transform 0.2s ease",
-        width: "fit-content", // Adjust the width as needed
-        height: "fit-content", // Adjust the height as needed
+        width: "fit-content",
+        height: "fit-content",
         background: "#f0f0f0cf",
         boxShadow: "0px 10px 20px rgba(0, 0, 0, 0.1)",
       }}

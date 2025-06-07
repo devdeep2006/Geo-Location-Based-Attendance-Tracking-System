@@ -154,7 +154,7 @@ const Header = () => {
               <FaUserPlus className="text-2xl text-gray-700 bg-[#DBDADF]" />
               <Link href="/User_create" className="bg-[#DBDADF]"><span className="text-lg font-semibold text-gray-800 bg-[#DBDADF]">User Creation</span></Link>
             </div>
-            <div
+            {/* <div
               className="flex items-center gap-x-4 p-4 bg-[#DBDADF] cursor-pointer"
               onMouseEnter={() => handleMouseEnter(officeRef)}
               onMouseLeave={() => handleMouseLeave(officeRef)}
@@ -162,7 +162,7 @@ const Header = () => {
             >
               <FaLocationDot className="text-2xl text-gray-700 bg-[#DBDADF]" />
               <span className="text-lg font-semibold text-gray-800 bg-[#DBDADF]">Office Location</span>
-            </div>
+            </div> */}
             <div
               className="flex items-center gap-x-4 p-4 bg-[#DBDADF] cursor-pointer"
               onMouseEnter={() => handleMouseEnter(offsiteRef)}
@@ -172,7 +172,7 @@ const Header = () => {
               <MdFactory className="text-2xl text-gray-700 bg-[#DBDADF]" />
               <Link href="/Offsite"><span className="text-lg font-semibold text-gray-800 bg-[#DBDADF]">Offsites</span></Link>
             </div>
-            <div
+            {/* <div
               className="flex items-center gap-x-4 p-4 bg-[#DBDADF] cursor-pointer"
               onMouseEnter={() => handleMouseEnter(leaveRef)}
               onMouseLeave={() => handleMouseLeave(leaveRef)}
@@ -180,9 +180,8 @@ const Header = () => {
             >
               <PiNewspaperFill className="text-2xl text-gray-700 bg-[#DBDADF]" />
               <span className="text-lg font-semibold text-gray-800 bg-[#DBDADF]">Leave Application</span>
-            </div>
-          </div>
-          <div
+            </div> */}
+            <div
             className="flex items-center gap-x-4 p-4 bg-[#DBDADF] cursor-pointer"
             onMouseEnter={() => handleMouseEnter(logoutRef)}
             onMouseLeave={() => handleMouseLeave(logoutRef)}
@@ -190,6 +189,7 @@ const Header = () => {
           >
             <IoLogOut className="text-2xl text-gray-700 bg-[#DBDADF]" />
             <Link href="/Landing_Page" ><span className="text-lg font-semibold text-gray-800 bg-[#DBDADF]">Logout</span></Link>
+          </div>
           </div>
         </div>
       )}

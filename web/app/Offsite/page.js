@@ -1,5 +1,5 @@
 import React from "react";
-import Offlocation from "@/components/Offlocation";
+import Offlocation from "@/components/offlocation";
 
 const Page = () => {
   const officeLocations = [
