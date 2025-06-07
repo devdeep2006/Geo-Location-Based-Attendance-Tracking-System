@@ -109,4 +109,7 @@ Employee Data View:
 - 💵 **Payroll Integration**: Direct link between attendance and salary.
 - 🏫 **Institutional Expansion**: Adaptation for schools, universities, and large events.
 - 🔔 **Smart Notifications**: Alerts for missed check-ins, unusual patterns, etc.
-- 📊 **Advanced Analytics**: Predictive attendance and perf
+- 📊 **Advanced Analytics**: Predictive attendance and performance insights.
+
+### 📂 Presentation Link  
+View our full **GeoNirikshan SIH PPT** here: [Click to Open Presentation](https://drive.google.com/file/d/1Ey9sVipXjYb_N4zxmi__FkowZgiVboJJ/view?usp=sharing)
