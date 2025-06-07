@@ -88,26 +88,22 @@ Employee Data View:
 ### 📱 Mobile App Interface
 
 #### 🔐 Mobile App Login Page  
-<img src="/images/IMG-20250605-WA0013.jpg" width="300" alt="Mobile App Login Page">
+<img src="/images/IMG-20250605-WA0013.jpg" width="280" alt="Mobile App Login Page">
 
 #### ⏱️ Check In/Check Out Page  
-<img src="/images/IMG-20250605-WA0015.jpg" width="300" alt="Check In Page">
-<img src="/images/IMG-20250605-WA0016.jpg" width="300" alt="Check Out Page">
+<img src="/images/IMG-20250605-WA0015.jpg" width="280" alt="Check In Page"> <img src="/images/IMG-20250605-WA0016.jpg" width="280" alt="Check Out Page">
 
 #### 📊 Attendance and Activity Status of the Day  
-<img src="/images/1.jpg" width="300" alt="Attendance Status">
+<img src="/images/1.jpg" width="280" alt="Attendance Status">
 
 #### 👤 My Profile Page  
-<img src="/images/IMG-20250605-WA0022.jpg" width="300" alt="Profile Page 1">
-<img src="/images/IMG-20250605-WA0023.jpg" width="300" alt="Profile Page 2">
-<img src="/images/IMG-20250605-WA0019.jpg" width="300" alt="Profile Page 3">
+<img src="/images/IMG-20250605-WA0022.jpg" width="280" alt="Profile Page 1"> <img src="/images/IMG-20250605-WA0023.jpg" width="280" alt="Profile Page 2"> <img src="/images/IMG-20250605-WA0019.jpg" width="280" alt="Profile Page 3">
 
 #### 📅 Previous Events Page  
-<img src="/images/2.jpg" width="300" alt="Previous Events Page">
+<img src="/images/2.jpg" width="280" alt="Previous Events Page">
 
 #### 📝 Apply and Check Leave Status  
-<img src="/images/IMG-20250605-WA0017.jpg" width="300" alt="Apply Leave">
-<img src="/images/IMG-20250605-WA0018.jpg" width="300" alt="Leave Status">
+<img src="/images/IMG-20250605-WA0017.jpg" width="280" alt="Apply Leave"> <img src="/images/IMG-20250605-WA0018.jpg" width="280" alt="Leave Status">
 
 ---
 
