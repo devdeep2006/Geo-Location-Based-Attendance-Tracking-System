@@ -19,8 +19,9 @@ GeoNirikshan automates attendance by detecting an employee's proximity to the wo
 View our full **GeoNirikshan SIH PPT** here: [Click to Open Presentation](https://drive.google.com/file/d/1Ey9sVipXjYb_N4zxmi__FkowZgiVboJJ/view?usp=sharing)
 
 Our Website:[GeoNirikshan](https://geonirikshan.onrender.com)
-Login ID: SIH
-Login Password: FRIENDS
+
+- Login ID: SIH
+- Login Password: FRIENDS
 
 ---
 
