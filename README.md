@@ -15,6 +15,11 @@ GeoNirikshan automates attendance by detecting an employee's proximity to the wo
 
 ---
 
+### 📂 Presentation Link  
+View our full **GeoNirikshan SIH PPT** here: [Click to Open Presentation](https://drive.google.com/file/d/1Ey9sVipXjYb_N4zxmi__FkowZgiVboJJ/view?usp=sharing)
+
+---
+
 ## 📱 Employee Mobile Application Features
 
 - ✅ **Automatic Attendance**: Logged automatically when within 200m of assigned office location.
@@ -61,13 +66,13 @@ GeoNirikshan automates attendance by detecting an employee's proximity to the wo
 
 ### Web Admin Dashboard  
 Login Page:
-![Login Page](./Screenshot%202025-06-05%20024253.png)
+![Login Page](/images/Screenshot%202025-06-05%20024253.png)
 
 Admin Dashboard:
-![Admin Dashboard](Screenshot%202025-06-05%20024308.png)
+![Admin Dashboard](/images/Screenshot%202025-06-05%20024308.png)
 
 Employee Data View:
-![Employee Data View](Screenshot%202025-06-05%20024319.png)
+![Employee Data View](/images/Screenshot%202025-06-05%20024319.png)
 
 
 
@@ -78,29 +83,26 @@ Employee Data View:
 ### 📱 Mobile App Interface
 
 #### 🔐 Mobile App Login Page  
-![Mobile App Login Page](IMG-20250605-WA0013.jpg)
+![Mobile App Login Page](/images/IMG-20250605-WA0013.jpg)
 
 #### ⏱️ Check In/Check Out Page  
-![Check In Page](IMG-20250605-WA0015.jpg)  
-![Check Out Page](IMG-20250605-WA0016.jpg)
+![Check In Page](/images/IMG-20250605-WA0015.jpg)  
+![Check Out Page](/images/IMG-20250605-WA0016.jpg)
 
 #### 📊 Attendance and Activity Status of the Day  
-![Attendance Status](IMG-20250605-WA0021.jpg)
+![Attendance Status](/images/IMG-20250605-WA0021.jpg)
 
 #### 👤 My Profile Page  
-![Profile Page 1](IMG-20250605-WA0022.jpg)  
-![Profile Page 2](IMG-20250605-WA0023.jpg)  
-![Profile Page 3](IMG-20250605-WA0019.jpg)
+![Profile Page 1](/images/IMG-20250605-WA0022.jpg)  
+![Profile Page 2](/images/IMG-20250605-WA0023.jpg)  
+![Profile Page 3](/images/IMG-20250605-WA0019.jpg)
 
 #### 📅 Previous Events Page  
-![Previous Events Page](IMG-20250605-WA0014.jpg)
+![Previous Events Page](/images/IMG-20250605-WA0014.jpg)
 
 #### 📝 Apply and Check Leave Status  
-![Apply Leave](IMG-20250605-WA0017.jpg)  
-![Leave Status](IMG-20250605-WA0018.jpg)
-
-
-
+![Apply Leave](/images/IMG-20250605-WA0017.jpg)  
+![Leave Status](/images/IMG-20250605-WA0018.jpg)
 
 ---
 
@@ -110,6 +112,3 @@ Employee Data View:
 - 🏫 **Institutional Expansion**: Adaptation for schools, universities, and large events.
 - 🔔 **Smart Notifications**: Alerts for missed check-ins, unusual patterns, etc.
 - 📊 **Advanced Analytics**: Predictive attendance and performance insights.
-
-### 📂 Presentation Link  
-View our full **GeoNirikshan SIH PPT** here: [Click to Open Presentation](https://drive.google.com/file/d/1Ey9sVipXjYb_N4zxmi__FkowZgiVboJJ/view?usp=sharing)
