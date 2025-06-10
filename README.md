@@ -1,72 +1,84 @@
-<<<<<<< HEAD
-# GeoNirikshan - Geolocation-Based Attendance Tracking System
+📍 GeoNirikshan – Geolocation-Based Attendance Tracking System
+GeoNirikshan is a smart, secure, and scalable attendance tracking platform designed for modern workplaces. It combines geolocation and dual biometric verification to automate employee attendance seamlessly. The system offers dedicated portals for both employees and administrators, ensuring transparency, efficiency, and ease of use.
 
-GeoNirikshan is a smart and scalable attendance tracking system tailored for modern workplaces. It leverages **geolocation** and **biometric verification** to securely automate employee attendance, offering dedicated platforms for both employees and administrators.
+🌐 Overview
+GeoNirikshan simplifies and secures the attendance process through:
 
----
+📍 Geofenced Attendance: Automatically logs attendance when within a 200-meter radius of the assigned office location.
 
-## 🌐 Overview
+🔐 Dual Biometric Verification: Combines fingerprint and facial recognition to validate identity.
 
-GeoNirikshan automates attendance by detecting an employee's proximity to the workplace and initiating biometric verification. It includes:
+📊 Real-Time Admin Dashboards: For live monitoring, data insights, and efficient management.
 
-- Geofenced automatic attendance within a 200m radius.
-- Dual biometric verification (fingerprint + facial recognition).
-- Real-time dashboards for admins.
-- Leave management and detailed logs for both employees and employers.
+📅 Leave Management System: Allows easy tracking, application, and approval of employee leaves.
 
----
+📂 Detailed Logs: Maintains a comprehensive record of employee attendance and activities.
 
-### 📂 Presentation Link  
-View our full **GeoNirikshan SIH PPT** here: [Click to Open Presentation](https://drive.google.com/file/d/1Ey9sVipXjYb_N4zxmi__FkowZgiVboJJ/view?usp=sharing)
+🔗 View Full Presentation (PPT)
+🌐 Visit Website: GeoNirikshan
+🧾 Login ID: SIH
+🔐 Password: FRIENDS
 
-Our Website:[GeoNirikshan](https://geonirikshan.onrender.com)
+📱 Employee Mobile Application Features
+✅ Automatic Attendance Logging
+Attendance is marked automatically when the user enters the geofenced office zone.
 
-- Login ID: SIH
-- Login Password: FRIENDS
+🔒 Dual Biometric Verification
+Uses both fingerprint scanning and facial recognition for enhanced security.
 
----
+📝 Manual Check-In/Check-Out
+Provides a fallback option for users who may face technical issues.
 
-## 📱 Employee Mobile Application Features
+📊 Daily Activity Logs
+Displays working hours, break durations, and total time spent.
 
-- ✅ **Automatic Attendance**: Logged automatically when within 200m of assigned office location.
-- 🔒 **Dual Biometric Verification**: Fingerprint + Face recognition for secure verification.
-- 📝 **Manual Check-In/Out**: Available as fallback option.
-- 📊 **Daily Logs**: Includes working hours, break durations, total time.
-- 📅 **Leave Application**: Built-in leave request module.
+📅 Leave Application Portal
+Allows employees to easily apply for leaves directly from the app.
 
----
+🖥️ Admin Web Dashboard Features
+📍 Live Status Visualization
+Real-time display of on-site and off-site employees.
 
-## 🖥️ Admin Web Dashboard Features
+📈 Analytics & Trends
+Graphs showing attendance trends and individual employee metrics.
 
-- 📍 **Real-Time Stats**: Visual display of on-site/off-site employees.
-- 📈 **Graphs & Logs**: Attendance trends and employee-specific logs.
-- 👤 **Employee Profiles**: Historical attendance records, leaves, and activity.
-- 🌍 **Map-Based Management**: Create/manage office zones using interactive maps.
-- 🗂️ **Leave Management**: Review and respond to employee leave applications.
+👤 Employee Profile Management
+Includes detailed logs of attendance history, leave records, and daily activity.
 
----
+🗺️ Map-Based Zone Management
+Create and manage geofenced zones using an interactive map interface.
 
-## 🛠 Tech Stack
+🗂️ Leave Approval Panel
+Admins can review, approve, or reject leave applications efficiently.
 
-| Platform       | Technologies                           |
-|----------------|----------------------------------------|
-| Frontend (Web) | Next.js, Tailwind CSS                  |
-| Mobile App     | Flutter (Dart), Kotlin (Android), Swift (iOS) |
-| UI/UX Design   | Figma                                  |
-| Authentication| Firebase                                |
-| Databases      | PostgreSQL (relational), MongoDB (logs)|
-| Visualization  | Matplotlib                             |
+🛠️ Tech Stack
+Layer	Technologies Used
+Frontend (Web)	Next.js, Tailwind CSS
+Mobile App	Flutter (Dart), Kotlin (Android), Swift (iOS)
+UI/UX Design	Figma
+Authentication	Firebase
+Databases	PostgreSQL (relational), MongoDB (logs)
+Data Visualization	Matplotlib
 
----
+🔄 Workflow Overview
+📍 Employee enters the predefined geofence or manually initiates check-in.
 
-## 🔄 Project Workflow
+🔐 Biometric authentication is triggered (facial + fingerprint).
 
-1. 📍 **User enters** predefined office geofence or manually initiates check-in.
-2. 🔐 **Biometric verification** (face + fingerprint) is triggered.
-3. 🗃️ **Attendance data** is recorded and securely sent to the server.
-4. 📊 **Admin dashboard** updates in real-time for monitoring and leave handling.
+🗃️ Verified attendance is securely logged and sent to the backend server.
 
----
+📊 Admin dashboard updates in real-time, enabling live monitoring and leave handling.
+
+🚀 Why GeoNirikshan?
+Eliminate buddy-punching with secure biometric authentication.
+
+Automate attendance tracking with minimal manual intervention.
+
+Get real-time insights and detailed employee reports.
+
+Manage leaves and zones efficiently with intuitive tools.
+
+
 
 ## 📸 Screenshots
 
