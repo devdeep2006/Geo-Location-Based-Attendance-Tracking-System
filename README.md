@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GeoNirikshan - Geolocation-Based Attendance Tracking System
 
 GeoNirikshan is a smart and scalable attendance tracking system tailored for modern workplaces. It leverages **geolocation** and **biometric verification** to securely automate employee attendance, offering dedicated platforms for both employees and administrators.
@@ -113,3 +114,6 @@ Employee Data View:
 - 🏫 **Institutional Expansion**: Adaptation for schools, universities, and large events.
 - 🔔 **Smart Notifications**: Alerts for missed check-ins, unusual patterns, etc.
 - 📊 **Advanced Analytics**: Predictive attendance and performance insights.
+=======
+# Geo-Location-Based-Attendance-Tracking-System
+>>>>>>> b4e12321915deb4e6df8eaf478464e3d0dc7e03c
